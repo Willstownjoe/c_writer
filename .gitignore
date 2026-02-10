@@ -1,0 +1,16 @@
+# Compiled binaries
+writer
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+
+# Editor/OS junk
+*.swp
+*.swo
+.DS_Store
+
